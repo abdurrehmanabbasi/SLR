@@ -1,4 +1,9 @@
-# Quality Assessment
+# Relevance Checking and Quality Assessment
+
+### Relevance - Low, Medium, High
+High- High relevant papers Included
+Medium - Relevant but 
+Low- very weak in relevance
 
 
 Use **3-point scoring** for each:
@@ -100,15 +105,6 @@ Use **3-point scoring** for each:
 | **1**   | Enough detail to reproduce |
 | **0.5** | Partially reproducible     |
 | **0**   | Not reproducible           |
-
----
-
-# 📊 Final Quality Score (IMPORTANT)
-
-```
-Total QA Score = QA1 + QA2 + QA3 + QA4 + QA5
-(Max = 5)
-```
 
 ---
 

@@ -28,10 +28,12 @@ Creating relevance column and check strong Relevance according below:
 - The proposed system is applied to a software engineering task
 - The paper presents a concrete technical contribution, such as a framework, architecture, or system
 - The study includes explicit evaluation, such as experiments, case studies, or performance analysis
+- Similarity of Documents
 
-after this 720-385=335 Remaing for Full Text Screeing Process
+after this 720-387=333 Remaing for Full Text Screeing Process
 
 
 ### Full-text screening
+QA and DE and Relevance Checking So we include 147 High Relevance to Question and Quality papers of minimum 4 score out of 5 
+So we Select 147 studies
 
-QA and DE

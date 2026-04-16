@@ -92,6 +92,19 @@
 
 
 We combine done QA+DE below the methodology for full screen
-QA done by 2 Reviewer
-DE done by 1 Reviewer and other 1 is check
+
+We sit togther and do qa and data extraction and make columns for it then we combinely select 20 papers and fill it for understanding 
+
+then assign 
+set 1 - 1-166 Papers Abdur Rehman to Fill Relevance+QA+DE
+set 2 - 167-333 Papers Tanveer to Fill Relevance+QA+DE
+
+then 
+set 1 - assess by tanveer and check by randomly picking 10 papers if result are same
+set 2 - same as done abdur rehman
+
+Only Include
+High and Medium Relevant
+QA Score => 4
+and only qualitive highly relevant paper and 5_QA 
 
